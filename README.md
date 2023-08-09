@@ -28,3 +28,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=utkrao&show_icons=true&locale=en&layout=compact" alt="utkrao" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=utkrao&show_icons=true&locale=en" alt="utkrao" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=utkrao&" alt="utkrao" /></p>
