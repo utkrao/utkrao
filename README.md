@@ -27,5 +27,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=utkrao&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="utkrao" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=utkrao&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="utkrao" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=utkrao&" alt="utkrao" /></p>
