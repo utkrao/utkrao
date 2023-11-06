@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working at **PenguinApps**
 
-- 🌱 I’m currently learning **NodeJS, ExpressJS and DevOps**
+- 🌱 I’m currently learning **NextJs, Prisma and DevOps**
 
 - 🤝 I’m looking for a new role as a **Software Engineer**
 
