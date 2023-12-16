@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=utkrao" alt="utkrao" /></a> </p>
 
-- 🔭 I’m currently working at **Whirlpool**
+// - 🔭 I’m currently working at **Whirlpool**
 
 - 🌱 I’m currently learning **NextJs, Prisma and DevOps**
 
