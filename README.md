@@ -3,15 +3,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=utkrao" alt="utkrao" /></a> </p>
 
-[//]: # ( - 🔭 I’m currently working at **Whirlpool** )
+- 🔭 I’m currently working at **Whirlpool** as a **Cloud Operations Engineer Intern**
 
-- 🌱 I’m currently learning **NextJs, Prisma and DevOps**
+- 🌱 I’m currently learning **AWS, Python, Automation and DevOps**
 
 - 🤝 I’m looking for a new role as a **Software Engineer**
 
 - 📫 How to reach me **utkarshrao1177@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1A0ixDlfi2sQJyTo8Tr5XSFWetebyHyym/view?usp=sharing](https://drive.google.com/file/d/1C-Az8-K28nbVItSyp5XmbQ958MfnSivd/view?usp=sharing)
+- 
+- 📄 Know about my experiences [https://drive.google.com/file/d/16qyATY6u5WxyiKWZlmxjmjkd46qXoxMK/view?usp=sharing](https://drive.google.com/file/d/16qyATY6u5WxyiKWZlmxjmjkd46qXoxMK/view?usp=sharing)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/utk_07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="utk_07" height="30" width="40" /></a>
