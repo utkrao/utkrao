@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **utkarshrao1177@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/16qyATY6u5WxyiKWZlmxjmjkd46qXoxMK/view?usp=sharing](https://drive.google.com/file/d/16qyATY6u5WxyiKWZlmxjmjkd46qXoxMK/view?usp=sharing){:target="_blank" onclick="window.open(this.href,'_blank'); return false;"}
+- 📄 Know about my experiences [https://drive.google.com/file/d/16qyATY6u5WxyiKWZlmxjmjkd46qXoxMK/view?usp=sharing](https://drive.google.com/file/d/16qyATY6u5WxyiKWZlmxjmjkd46qXoxMK/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
