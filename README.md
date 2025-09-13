@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm S. Utkarsh Rao</h1>
-<h3 align="center">A passionate DevSecOps Engineer Intern from Pune, India</h3>
+<h3 align="center">A passionate Software Engineer from Pune, India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=utkrao" alt="utkrao" /></a> </p>
 
-- 🔭 I’m currently working at **Whirlpool** as a **DevSecOps Engineer Intern**
+- 🔭 I’m currently working at **Accenture** as a **Software Engineer**
 
-- 🌱 I’m currently learning **AWS, Python, Automation and DevOps**
+- 🌱 I’m currently learning **AWS and DevOps**
 
 - 🤝 I’m looking for a new role as a **Software Engineer**
 
